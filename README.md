@@ -6,8 +6,9 @@
 <h1 align="center"> Logy汉化版 By -翎风- </h1>
 
 <p align="center">
+ 
  <img src="https://img.shields.io/badge/version-2019.5.11-logy-Cn.svg?longCache=true&style=for-the-badge">
-<img src="https://img.shields.io/badge/license-SATA-blue.svg?longCache=true&style=for-the-badge">
+<img src="https://img.shields.io/github/dt/AFNetworking.svg">
 </p>
 
 

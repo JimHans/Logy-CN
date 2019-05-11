@@ -7,7 +7,7 @@
 
 <p align="center">
  
- <img src="https://img.shields.io/badge/version-2019.5.11-logy-Cn.svg?longCache=true&style=for-the-badge">
+ <img src="https://img.shields.io/badge/Version-@1.0.0-red.svg">
 <img src="https://img.shields.io/github/dt/AFNetworking.svg">
 </p>
 

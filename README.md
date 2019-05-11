@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/JimHans/Logy-Cn/master/4.jpg" height=300>
+<img src="https://raw.githubusercontent.com/JimHans/Logy-Cn/master/4.jpg" height=150>
 </p>
 
 <h1 align="center"> Logy汉化版 By -翎风- </h1>

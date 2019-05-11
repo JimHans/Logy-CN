@@ -1,12 +1,12 @@
 # Logy汉化版
 <p align="center">
-<img src="https://raw.githubusercontent.com/JimHans/Logy-Cn/master/1.jpg">
+<img src="https://raw.githubusercontent.com/JimHans/Logy-Cn/master/1.jpg" height=300>
 </p>
 
 <h1 align="center">- Bilibili Toolkit -</h1>
 
 <p align="center">
-<img src="https://img.shields.io/badge/license-1.0.0-blue.svg?longCache=true&style=for-the-badge">
+<img src="https://img.shields.io/badge/license-SATA-blue.svg?longCache=true&style=for-the-badge">
 </p>
 
 
